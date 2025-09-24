@@ -38,6 +38,6 @@ add_meme(
     max_texts=1,
     default_texts=["站街,不卖纯馋人"],
     keywords=["三角初华举牌","初华举牌"],
-    date_created=datetime(2022, 6, 12),
-    date_modified=datetime(2023, 2, 14),
+    date_created=datetime(2025, 9, 23),
+    date_modified=datetime(2025, 9, 23),
 )
