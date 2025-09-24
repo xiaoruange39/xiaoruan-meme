@@ -8,7 +8,7 @@
 
 ## QQ群
 
-* [欢迎加群玩]（https://qm.qq.com/q/8kdJ2Bzf6S）
+* [欢迎进群玩](https://qm.qq.com/q/8kdJ2Bzf6S)
 
 ## 声明
 
