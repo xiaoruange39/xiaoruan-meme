@@ -28,7 +28,7 @@ add_meme(
     max_images=1,
     min_texts=0,
     max_texts=0,
-    keywords=["爱音指"],
+    keywords=["爱音指","千早爱音指","千早爱音手机","爱音手机"],
     date_created=datetime(2025, 9, 24),
     date_modified=datetime(2025, 9, 24),  # 更新修改日期
 )
