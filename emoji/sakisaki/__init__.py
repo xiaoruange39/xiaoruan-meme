@@ -71,6 +71,6 @@ add_meme(
     min_images=1,
     max_images=1,
     keywords=["saki酱","saki","三角初音爬","三角初华爬"],
-    date_created=datetime(2025, 9, 6),
-    date_modified=datetime(2025, 9, 6),
+    date_created=datetime(2025, 9, 24),
+    date_modified=datetime(2025, 9, 24),
 )
