@@ -1,6 +1,6 @@
 # `meme-generator` 扩展表情包仓库
 
-🚀基于  [meme-generator](https://github.com/MemeCrafters/meme-generator) 做的扩展表情包仓库
+  🚀基于  [meme-generator](https://github.com/MemeCrafters/meme-generator) 做的扩展表情包仓库
 
 ## 表情列表
 
