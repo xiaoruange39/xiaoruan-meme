@@ -17,7 +17,7 @@ def sena_holdsign(images, texts: list[str], args):
         frame.draw_text(
             (279, 817, 567, 1040),
             text,
-            fill=(0, 0, 0),
+            fill=(214, 109, 142),
             allow_wrap=True,
             max_fontsize=120,
             min_fontsize=30,
