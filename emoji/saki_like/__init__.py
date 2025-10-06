@@ -49,6 +49,6 @@ add_meme(
     max_texts=1,
     default_texts=[default_text],
     keywords=["小祥喜欢", "丰川祥子喜欢", "祥子喜欢"],
-    date_created=datetime(2025, 10, 5),
-    date_modified=datetime(2025, 10, 5),
+    date_created=datetime(2025, 10, 6),
+    date_modified=datetime(2025, 10, 6),
 )
