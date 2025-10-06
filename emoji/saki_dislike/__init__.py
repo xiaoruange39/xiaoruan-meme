@@ -12,7 +12,7 @@ img_dir = Path(__file__).parent / "images"
 default_text = "祥子讨厌这个"
 
 
-def play_game(images: list[BuildImage], texts: list[str], args):
+def saki_dislike(images: list[BuildImage], texts: list[str], args):
     text = texts[0] if texts else default_text
     frame = BuildImage.open(img_dir / "0.png")
     try:
@@ -41,8 +41,8 @@ def play_game(images: list[BuildImage], texts: list[str], args):
 
 
 add_meme(
-    "play_game",
-    play_game,
+    "saki_dislike",
+    saki_dislike,
     min_images=1,
     max_images=1,
     min_texts=0,
@@ -50,5 +50,5 @@ add_meme(
     default_texts=[default_text],
     keywords=["小祥讨厌", "丰川祥子讨厌", "祥子讨厌"],
     date_created=datetime(2025, 10, 5),
-    date_modified=datetime(2025, 10, 5),
+    date_modified=datetime(2025, 10, 6),
 )
