@@ -1,3 +1,15 @@
+<div align="center">
+<img src="./images/logo.png" width=200 />
+
+# meme_emoji 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python">
+  <a href="https://qm.qq.com/q/rIIjX5r50k">
+    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-123180736-orange" alt="qq group">
+</p>
+</div>
+
 # `meme-generator` 扩展表情包仓库
 
 🚀基于  [meme-generator](https://github.com/MemeCrafters/meme-generator) 做的扩展表情包仓库
