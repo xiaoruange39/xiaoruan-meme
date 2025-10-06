@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./images/logo.png" width=200 />
 
-# meme_emoji 
+# meme-generator 
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python">
