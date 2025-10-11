@@ -36,7 +36,6 @@ add_meme(
     max_texts=1,
     default_texts=["不卖,纯馋人"],
     keywords=["姬野星奏举牌", "星奏举牌"],
-    tags=MemeTags.wuthering_waves,
     date_created=datetime(2025, 9, 25),
     date_modified=datetime(2025, 9, 25),
 )
