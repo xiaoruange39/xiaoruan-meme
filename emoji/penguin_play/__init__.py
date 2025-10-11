@@ -22,7 +22,7 @@ def penguin_play(images: list[BuildImage], texts: list[str], args: MemeArgsModel
         ta = "他" if info.gender == "male" else "她"
         name = info.name or ta
 
-    text = f"都出来一起玩{name}"
+    text = f"正在玩{name}中"
     try:
         frame.draw_text(
             (50, 706, 1029, 864),
@@ -51,7 +51,7 @@ add_meme(
     max_images=1,
     min_texts=0,
     max_texts=1,
-    keywords=["企鹅指", "三维威廉泰尔企鹅指", "三维威廉泰尔企鹅电脑", "企鹅电脑"],
+    keywords=["正在玩"],
     date_created=datetime(2025, 10, 6),
-    date_modified=datetime(2025, 10, 7),
+    date_modified=datetime(2025, 10, 11),
 )
