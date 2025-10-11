@@ -37,7 +37,7 @@ def penguin_holdsign(images, texts: list[str], args):
         raise
     
     # 4. 旋转文本图像（模拟手持角度）
-    rotated_text = text_img.rotate(angle=1.5, expand=True)
+    rotated_text = text_img.rotate(angle=1.4, expand=True)
     
     # 5. 计算旋转后文本的粘贴位置（确保中心与原牌子区域对齐）
     # 原牌子区域的中心坐标
