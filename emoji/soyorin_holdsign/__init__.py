@@ -36,7 +36,7 @@ add_meme(
     max_texts=1,
     default_texts=["哦内该不要抛弃我"],
     keywords=["长崎爽世举牌", "爽世举牌", "素世举牌", "长崎素世举牌"],
-    tags=MemeTags.wuthering_waves,
+    tags=mygo,
     date_created=datetime(2025, 9, 23),
     date_modified=datetime(2025, 9, 23),
 )
