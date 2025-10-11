@@ -27,7 +27,7 @@ def penguin_play(images: list[BuildImage], texts: list[str], args: MemeArgsModel
         frame.draw_text(
             (50, 706, 1029, 864),
             text,
-            fill=(205, 150, 122),
+            fill=(0, 0, 0),
             #allow_wrap=True,
             max_fontsize=100,
             min_fontsize=5,
