@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./images/logo.png" width=200 />
 
-# meme-generator 
+# xiaoruan-meme
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python">
