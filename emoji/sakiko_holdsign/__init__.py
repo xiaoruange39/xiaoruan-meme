@@ -9,7 +9,7 @@ from meme_generator.exception import TextOverLength
 img_dir = Path(__file__).parent / "images"
 
 
-def raise_sign(images, texts: list[str], args):
+def sakiko_sign(images, texts: list[str], args):
     text = texts[0]
     frame = BuildImage.open(img_dir / "0.png")
     text_img = BuildImage.new("RGBA", (390, 265))
@@ -33,7 +33,7 @@ def raise_sign(images, texts: list[str], args):
 
 add_meme(
     "sakiko_sign",
-    raise_sign,
+    sakiko_sign,
     min_texts=1,
     max_texts=1,
     default_texts=["卖,给钱就做"],
