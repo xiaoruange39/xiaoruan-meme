@@ -20,7 +20,7 @@
 
 ## 字体
 
-📄[字体安装参考](https://github.com/MemeCrafters/meme-generator/wiki/本地安装#字体安装)
+📄[字体安装](https://github.com/xiaoruange39/xiaoruan-meme/wiki/%E5%AD%97%E4%BD%93%E5%AE%89%E8%A3%85)
 
 ## QQ群
 
