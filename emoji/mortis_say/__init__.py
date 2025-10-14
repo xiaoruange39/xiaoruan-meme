@@ -49,7 +49,7 @@ add_meme(
     min_texts=1,
     max_texts=1,
     default_texts=["你看你骚的"],
-    keywords=["若叶睦说", "睦说"],
+    keywords=["若叶睦说", "睦说", "你看你骚的"],
     args_type=args_type,
     tags=MemeTags.mygo,
     date_created=datetime(2025, 9, 25),
