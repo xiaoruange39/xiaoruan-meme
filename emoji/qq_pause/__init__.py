@@ -51,7 +51,6 @@ add_meme(
     default_texts=["你好，该用户已放假，请节后再说"],
     keywords=["暂停营业"],
     args_type=args_type,
-    tags=MemeTags.mihoyo,
     date_created=datetime(2025, 10, 15),
-    date_modified=datetime(2025, 10, 15),
+    date_modified=datetime(2025, 10, 16),
 )
