@@ -29,3 +29,5 @@
 ## 声明
 
 📌本仓库的表情素材等均来自网络，如有侵权请联系作者删除
+
+[![Visits](https://badges.pufler.dev/visits/xiaoruange39/xiaoruan-meme)](https://badges.pufler.dev)
