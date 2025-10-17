@@ -29,3 +29,5 @@
 ## 声明
 
 📌本仓库的表情素材等均来自网络，如有侵权请联系作者删除
+
+![Visitors](https://countapi.xyz/hit/xiaoruange39/xiaoruan-meme/github-repo-readme)
