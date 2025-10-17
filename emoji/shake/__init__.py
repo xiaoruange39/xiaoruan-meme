@@ -20,7 +20,7 @@ add_meme(
     shake,
     min_images=1,
     max_images=1,
-    keywords=["摇一摇","晃一晃","摇晃"],
+    keywords=["晃一晃","摇晃","晃动"],
     date_created=datetime(2025, 10, 17),
     date_modified=datetime(2025, 10, 17),
 )
