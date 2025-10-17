@@ -29,3 +29,5 @@
 ## 声明
 
 📌本仓库的表情素材等均来自网络，如有侵权请联系作者删除
+
+[![Visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fxiaoruange39%2Fxiaoruan-meme&query=%24.views.count&label=Visits)](https://github.com/xiaoruange39/xiaoruan-meme)
