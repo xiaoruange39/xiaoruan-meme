@@ -236,6 +236,6 @@ add_meme(
     default_texts=["色情消息秒回"],
     args_type=args_type,
     keywords=["企鹅举牌"],
-    date_created=datetime(2025, 10, 18),
+    date_created=datetime(2025, 10, 11),
     date_modified=datetime(2025, 10, 18),
 )
