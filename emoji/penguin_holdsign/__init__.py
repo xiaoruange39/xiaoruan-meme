@@ -48,9 +48,9 @@ frame_configs = [
     },
     {
         "frame_file": "1.png",
-        "text_bbox": (303, 19, 562, 279),
+        "text_bbox": (303, 9, 562, 279),
         "font_families": ["NotoSansSC-Bold", "FZXS14", "SimHei"],
-        "rotation_range": (-3.2, -3.2),
+        "rotation_range": (-3.0, -3.0),
         "text_color": (0, 0, 0)
     },
     {
