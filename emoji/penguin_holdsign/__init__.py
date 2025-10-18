@@ -96,11 +96,11 @@ def penguin_holdsign(images: list[BuildImage], texts: list[str], args: Model):
         text_width = x2 - x1
         text_height = y2 - y1
         
-        # 获取旋转角度（支持小数）
+        # 获取旋转角度
         if config["rotation_range"][0] == config["rotation_range"][1]:
-            rotation_angle = config["rotation_range"][0]  # 固定角度（可小数）
+            rotation_angle = config["rotation_range"][0]  # 固定角度
         else:
-            rotation_angle = random.uniform(*config["rotation_range"])  # 随机小数角度
+            rotation_angle = random.uniform(*config["rotation_range"])
         
         text_color = config["text_color"]
         
