@@ -51,7 +51,6 @@ add_meme(
     default_texts=["你看你骚的"],
     keywords=["若叶睦说", "睦说", "你看你骚的"],
     args_type=args_type,
-    tags=MemeTags.mygo,
     date_created=datetime(2025, 9, 25),
     date_modified=datetime(2025, 9, 25),
 )
