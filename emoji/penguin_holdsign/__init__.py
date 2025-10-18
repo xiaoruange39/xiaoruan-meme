@@ -19,7 +19,7 @@ from meme_generator.utils import make_jpg_or_gif
 img_dir = Path(__file__).parent / "images"
 
 
-help_text = "图片编号，范围为 0~4，0为随机"
+help_text = "图片编号，范围为 0~5，0为随机"
 
 
 class Model(MemeArgsModel):
@@ -73,6 +73,13 @@ frame_configs = [
         "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
         "rotation_range": (0, 0),
         "text_color": (0, 0, 0)
+    },
+    {
+        "frame_file": "5.png",
+        "text_bbox": (371, 11, 643, 279),
+        "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
+        "rotation_range": (-2.5, -2.5),
+        "text_color": (0, 0, 0)
     }
 ]
 
@@ -95,8 +102,8 @@ def penguin_holdsign(images: list[BuildImage], texts: list[str], args: Model):
         x1, y1, x2, y2 = config["text_bbox"]
         text_width = x2 - x1  # 文本框宽度
         text_height = y2 - y1  # 文本框高度
-        line_spacing = 5  # 行间距（可调整，越大行间距越宽）
-        min_font_size = 15  # 最小字体大小（可调整）
+        line_spacing = 5  # 行间距
+        min_font_size = 5  # 最小字体大小
 
         # 获取旋转角度
         if config["rotation_range"][0] == config["rotation_range"][1]:
