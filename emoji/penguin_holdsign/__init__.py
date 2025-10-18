@@ -41,43 +41,43 @@ args_type = MemeArgsType(
 frame_configs = [
     {
         "frame_file": "0.png",
-        "text_bbox": (223, 335, 786, 664),
-        "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
+        "text_bbox": (223, 350, 781, 674),
+        "font_families": ["FZSEJW", "FZXS14", "SimHei"],
         "rotation_range": (1.4, 1.4),
         "text_color": (0, 0, 0)
     },
     {
         "frame_file": "1.png",
-        "text_bbox": (303, -9, 562, 269),
-        "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
+        "text_bbox": (298, 34, 567, 264),
+        "font_families": ["FZSEJW", "FZXS14", "SimHei"],
         "rotation_range": (-4, -4),
         "text_color": (0, 0, 0)
     },
     {
         "frame_file": "2.png",
-        "text_bbox": (48, 186, 329, 369),
-        "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
+        "text_bbox": (48, 196, 329, 379),
+        "font_families": ["FZSEJW", "FZXS14", "SimHei"],
         "rotation_range": (0, 0),
         "text_color": (255, 255, 255)
     },
     {
         "frame_file": "3.png",
-        "text_bbox": (320, 1, 560, 239),
-        "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
+        "text_bbox": (320, 36, 555, 244),
+        "font_families": ["FZSEJW", "FZXS14", "SimHei"],
         "rotation_range": (-4.2, -4.2),
         "text_color": (0, 0, 0)
     },
     {
         "frame_file": "4.png",
         "text_bbox": (0, 391, 496, 658),
-        "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
+        "font_families": ["FZSEJW", "FZXS14", "SimHei"],
         "rotation_range": (0, 0),
         "text_color": (0, 0, 0)
     },
     {
         "frame_file": "5.png",
-        "text_bbox": (371, 11, 643, 279),
-        "font_families": ["NotoSansSC-Regular", "FZXS14", "SimHei"],
+        "text_bbox": (366, 46, 643, 279),
+        "font_families": ["FZSEJW", "FZXS14", "SimHei"],
         "rotation_range": (-2.5, -2.5),
         "text_color": (0, 0, 0)
     }
