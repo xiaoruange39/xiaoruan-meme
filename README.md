@@ -18,10 +18,6 @@
 
 ✨[表情列表](https://github.com/xiaoruange39/meme-generator/wiki/%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8)
 
-## 字体
-
-📄[字体安装](https://github.com/xiaoruange39/xiaoruan-meme/wiki/%E5%AD%97%E4%BD%93%E5%AE%89%E8%A3%85)
-
 ## QQ群
 
 👏🏻[欢迎进群玩](https://qm.qq.com/q/8kdJ2Bzf6S)
