@@ -19,7 +19,7 @@ from meme_generator.utils import make_jpg_or_gif
 img_dir = Path(__file__).parent / "images"
 
 
-help_text = "图片编号，范围为 0~5，0为随机"
+help_text = "图片编号，范围为 0~6，0为随机"
 
 
 class Model(MemeArgsModel):
@@ -79,6 +79,13 @@ frame_configs = [
         "text_bbox": (366, 46, 643, 279),
         "font_families": ["FZSEJW", "FZXS14", "SimHei"],
         "rotation_range": (-2.5, -2.5),
+        "text_color": (0, 0, 0)
+    },
+    {
+        "frame_file": "6.png",
+        "text_bbox": (109, 188, 268, 297),
+        "font_families": ["FZSEJW", "FZXS14", "SimHei"],
+        "rotation_range": (-1.1, -1.1),
         "text_color": (0, 0, 0)
     }
 ]
@@ -237,5 +244,5 @@ add_meme(
     args_type=args_type,
     keywords=["企鹅举牌"],
     date_created=datetime(2025, 10, 11),
-    date_modified=datetime(2025, 10, 18),
+    date_modified=datetime(2025, 10, 19),
 )
