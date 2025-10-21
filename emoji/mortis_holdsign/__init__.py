@@ -9,7 +9,7 @@ from meme_generator.exception import TextOverLength
 img_dir = Path(__file__).parent / "images"
 
 
-def raise_sign(images, texts: list[str], args):
+def mortis_sign(images, texts: list[str], args):
     text = texts[0]
     frame = BuildImage.open(img_dir / "0.png")
     text_img = BuildImage.new("RGBA", (360, 290))
@@ -33,7 +33,7 @@ def raise_sign(images, texts: list[str], args):
 
 add_meme(
     "mortis_sign",
-    raise_sign,
+    mortis_sign,
     min_texts=1,
     max_texts=1,
     default_texts=["站街,不卖纯馋人"],
