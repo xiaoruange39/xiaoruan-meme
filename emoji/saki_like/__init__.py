@@ -12,7 +12,7 @@ img_dir = Path(__file__).parent / "images"
 default_text = "祥子喜欢这个"
 
 
-def saki_dislike(images: list[BuildImage], texts: list[str], args):
+def saki_like(images: list[BuildImage], texts: list[str], args):
     text = texts[0] if texts else default_text
     frame = BuildImage.open(img_dir / "0.png")
     try:
