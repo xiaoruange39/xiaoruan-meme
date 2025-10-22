@@ -28,14 +28,14 @@ def saki_dislike(images: list[BuildImage], texts: list[str], args):
         raise TextOverLength(text)
 
     def make(imgs: list[BuildImage]) -> BuildImage:
-        points = ((20, -93), (385, 51), (385, 533), (20, 709))
+        points = ((0, 0), (275, 140), (275, 637), (0, 765))
         screen = (
             imgs[0]
             .convert("RGBA")
-            .resize((395, 405), keep_ratio=True)
+            .resize((405, 405), keep_ratio=True)
             .perspective(points)
         )
-        return frame.copy().paste(screen.rotate(0, expand=True), (0, 0), below=True)
+        return frame.copy().paste(screen.rotate(0, expand=True), (80, -93), below=True)
 
     return make_jpg_or_gif(images, make)
 
