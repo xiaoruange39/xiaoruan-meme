@@ -92,7 +92,7 @@ frame_configs = [
 
 
 def penguin_holdsign(images: list[BuildImage], texts: list[str], args: Model):
-    text = texts[0] if texts else "色情消息秒回"
+    text = texts[0] if texts else "消息秒回"
 
     total_num = len(frame_configs) - 1
     if args.number == 0:
@@ -240,7 +240,7 @@ add_meme(
     max_images=0,
     min_texts=0,
     max_texts=1,
-    default_texts=["色情消息秒回"],
+    default_texts=["消息秒回"],
     args_type=args_type,
     keywords=["企鹅举牌"],
     date_created=datetime(2025, 10, 11),
