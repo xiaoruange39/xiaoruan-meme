@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/logo.png" width=200 />
+<img src="./images/92C4DDDA6B560736D88AED8E9F28CA0A (1).jpg" width=200 />
 
 # meme-generator
 
