@@ -1,14 +1,4 @@
-<div align="center">
-<img src="./images/92C4DDDA6B560736D88AED8E9F28CA0A (1).jpg" width=200 />
-
-# meme-generator
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python">
-  <a href="https://qm.qq.com/q/rIIjX5r50k">
-    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-123180736-orange" alt="qq group">
-</p>
-</div>
+![xiaoruan-meme访问量](https://count.getloli.com/@xiaoruan-meme?name=xiaoruan-meme&theme=green&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 
 ## meme-generator 扩展表情包仓库
 
