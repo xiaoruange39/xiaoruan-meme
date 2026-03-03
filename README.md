@@ -8,9 +8,6 @@
 
 ✨[表情列表](https://github.com/xiaoruange39/meme-generator/wiki/%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8)
 
-## QQ群
-
-👏🏻[欢迎进群玩](https://qm.qq.com/q/8kdJ2Bzf6S)
 
 ## 声明
 
